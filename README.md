@@ -124,5 +124,25 @@ I went to the status and fixed the ticket as resolved.
 
 The ticket is officially resolved.
 
+![image](https://github.com/user-attachments/assets/5c4c6676-76d2-436c-8825-1ec59267e99c)
+
+As an end user, I will visit the support center and submit a new ticket with the issue: "The CFO’s laptop is no longer turning on."
+
+![image](https://github.com/user-attachments/assets/f5b04901-639b-4f52-b940-551b93554346)
+
+Since I was already logged in as John, I just refreshed the page and saw the new ticket. 
+
+![image](https://github.com/user-attachments/assets/c5feb218-671b-4092-9d04-39e27f3842c3)
+
+I set the priority = Emergency, and SLA = Serv-B because I don't know how bad the situation is yet. I will contact Karen and go see the laptop myself. e.g if I find out that it was just because of a broken charger, I will state it in the ticket thread. 
+
+![image](https://github.com/user-attachments/assets/cb8ce3d1-7c88-478c-b291-68694de91657)
+
+I can now close the ticket. 
+
+![image](https://github.com/user-attachments/assets/923e45bd-3ac2-4097-9bca-3a3b2ca6ac54)
+
+This ticket is finally resolved.
+
 </p>
 <br />
