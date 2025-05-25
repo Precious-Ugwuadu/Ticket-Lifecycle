@@ -65,17 +65,32 @@ When I refreshed the ticket, I could see all the updates.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/a2543d12-eb4c-41ef-847d-eadb8763e33a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+I logged out as John and logged  in as Jane. 
+
+![image](https://github.com/user-attachments/assets/eb54354c-2492-41a0-8595-182228c5a3ca)
+
+Here, as Jane, I will work the ticket to completion. The screenshot above shows me reporting my suspicion to the team after checking the problem at the backend. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/3288fc5e-b78a-430d-9459-ab6d79830d51)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+I went to Status and set the ticket to resolved. The ticket was closed after it was determined that a recent update caused the issue. Once resolved, the vendor was informed, and users were able to log in successfully without any further problems. The status was changed to "Resolved," and the user was notified of the solution.
+
+![image](https://github.com/user-attachments/assets/0c0145aa-595e-4ab3-92d2-bb943c5aabc1)
+
+As an end-user, I created the following ticket: Accounting department needs Adobe upgrade, broken
+
 </p>
 <br />
