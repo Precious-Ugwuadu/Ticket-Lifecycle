@@ -34,11 +34,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
   
-![image](https://github.com/user-attachments/assets/16d07e87-bcb1-4631-bff7-804bcea6f676)
+![image](https://github.com/user-attachments/assets/3fec7061-35dc-4097-895a-3e3fb06a5310)
 
 </p>
 <p>
 When users experience a technical problem or need help with a service, they can report the issue by submitting a support ticket. This ticket includes important information such as the type of problem, how it is affecting them, and any steps they may have already taken to resolve it. For instance, if a customer discovers that the online banking platform is completely unavailable, they can create a new support ticket and select the category "Business Critical Outage." This helps the support team understand the urgency and seriousness of the issue, as outages like these can affect many users and disrupt important transactions. Once submitted, the help desk team reviews the ticket, prioritizes it based on its severity, and begins working to resolve the issue as quickly as possible.
+
+![image](https://github.com/user-attachments/assets/4ec87747-a8db-4f5a-8047-51495f1c58c3)
+
+
+
 </p>
 <br />
 
