@@ -86,7 +86,7 @@ Here, as Jane, I will work the ticket to completion. The screenshot above shows 
 </p>
 <p>
   
-I went to Status and set the ticket to resolved. The ticket was closed after it was determined that a recent update caused the issue. Once resolved, the vendor was informed, and users were able to log in successfully without any further problems. The status was changed to "Resolved," and the user was notified of the solution.
+I went to Status and set the ticket to resolved. The ticket was closed after it was determined that a recent update caused the issue. Once resolved, the vendor was informed, and users could log in successfully without any further problems. The status was changed to "Resolved," and the user was notified of the solution.
 
 ![image](https://github.com/user-attachments/assets/0c0145aa-595e-4ab3-92d2-bb943c5aabc1)
 
@@ -102,14 +102,27 @@ Here I can see the ticket I created.
 
 ![image](https://github.com/user-attachments/assets/a05c04f5-1b6f-456c-ad56-25f2c36b9116)
 
-When I open it, I can see the complaint. So, I will contact Ken to get more info, and through that, I confirmed that there are only 2 people who are having this issue.
+When I opened it, I saw the complaint. So, I will contact Ken to get more info, and through that, for example, I confirmed that there are only 2 people who are having this issue.
 
 ![image](https://github.com/user-attachments/assets/3e7f801a-d1b2-42f0-87a8-f8b555787243)
 
 With that information, I can set the SLA to Ser-C, which indicates it's not too bad. 
 
-![image](https://github.com/user-attachments/assets/f0e47bc7-53a2-43df-93a9-a6461b9fc5ae)
+![image](https://github.com/user-attachments/assets/f0e47bc7-53a2-43df-93a9-a6461b9fc5ae) 
 
+The ticket is successfully assigned to John Doe.
+
+![image](https://github.com/user-attachments/assets/1d630fbc-f989-4761-a55b-6755402ad7cd)
+
+So, these are all the conversations going on at the backend. The customer can see this, so be aware of this. 
+
+![image](https://github.com/user-attachments/assets/8464c152-0f62-4e19-ab94-f3f84b80e5dd)
+
+I went to the status and fixed the ticket as resolved. 
+
+![image](https://github.com/user-attachments/assets/03efc6e1-4c4c-4422-be71-49e3b9cb7b1a)
+
+The ticket is officially resolved.
 
 </p>
 <br />
