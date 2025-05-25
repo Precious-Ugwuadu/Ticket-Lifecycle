@@ -92,5 +92,25 @@ I went to Status and set the ticket to resolved. The ticket was closed after it 
 
 As an end-user, I created the following ticket: Accounting department needs Adobe upgrade, broken
 
+![image](https://github.com/user-attachments/assets/4e1d384f-64f5-40eb-bbb3-e7a9bc0fc4a4)
+
+I logged in as John to observe the ticket. 
+
+![image](https://github.com/user-attachments/assets/1341788e-17e8-4b84-88d5-2903602ed89a)
+
+Here I can see the ticket I created. 
+
+![image](https://github.com/user-attachments/assets/a05c04f5-1b6f-456c-ad56-25f2c36b9116)
+
+When I open it, I can see the complaint. So, I will contact Ken to get more info, and through that, I confirmed that there are only 2 people who are having this issue.
+
+![image](https://github.com/user-attachments/assets/3e7f801a-d1b2-42f0-87a8-f8b555787243)
+
+With that information, I can set the SLA to Ser-C, which indicates it's not too bad. 
+
+![image](https://github.com/user-attachments/assets/f0e47bc7-53a2-43df-93a9-a6461b9fc5ae)
+
+
+
 </p>
 <br />
