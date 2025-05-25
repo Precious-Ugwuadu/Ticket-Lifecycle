@@ -144,5 +144,44 @@ I can now close the ticket.
 
 This ticket is finally resolved.
 
+In Summary, I worked on 3 tickets:
+
+Ticket 1: Online/Mobile Banking Outage
+As End User: Create ticket: "Mobile/Online banking system is down"
+
+As Agent (John):
+
+Set Department: Online Banking
+
+Set SLA: Sev-A (1hr, 24/7)
+
+Review properties (Priority, SLA, Assigned To)
+
+As Agent (Jane): Complete the ticket
+
+Ticket 2: Adobe Upgrade – Accounting
+As End User: Create ticket: "Accounting needs Adobe upgrade"
+
+As Agent (John):
+
+Set Department: Support
+
+Set SLA: Sev-B (4hrs, 24/7)
+
+Complete the ticket
+
+Ticket 3: CFO’s Laptop Issue
+As End User: Create ticket: "CFO’s laptop won’t turn on"
+
+As Agent (John):
+
+Set Department: Support
+
+Set SLA: Sev-B
+
+Complete the ticket
+
+
+
 </p>
 <br />
