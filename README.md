@@ -51,11 +51,16 @@ As a Help Desk Agent, I will review each ticket’s priority, assigned departmen
 
 ![image](https://github.com/user-attachments/assets/e9567846-8094-47ab-8c6e-301b3f1d68fc)
 
-This ticket is classified as an "Emergency" due to its serious impact on a vital business function. As the agent addresses the problem, the SLA is adjusted to "Sev-A" to reflect the issue’s critical nature and the need for a swift response.
+This ticket is classified as an "Emergency" due to its serious impact on a vital business function. As the agent addresses the problem, the SLA is adjusted to "Sev-A" to reflect the issue’s critical nature and the need for a swift response. During the installation of this osTicket, I set "Sev-A" to 1 hour to contact the person and 24/7. 
 
 ![image](https://github.com/user-attachments/assets/f0b94ee4-0e23-4eb8-8a27-4f98d9ac38d3)
 
 I updated the help topic to Report a problem / Business Critical Outage.
+
+![image](https://github.com/user-attachments/assets/06819b5a-b24d-4e49-999d-e57ad8f49002)
+
+When I refreshed the ticket, I could see all the updates.
+
 </p>
 <br />
 
