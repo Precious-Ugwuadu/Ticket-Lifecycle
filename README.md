@@ -146,7 +146,7 @@ This ticket is finally resolved.
 
 In Summary, I worked on 3 tickets:
 
-Ticket 1: Online/Mobile Banking Outage
+***Ticket 1: Online/Mobile Banking Outage**
 As End User: Create ticket: "Mobile/Online banking system is down"
 
 As Agent (John):
@@ -159,7 +159,8 @@ Review properties (Priority, SLA, Assigned To)
 
 As Agent (Jane): Complete the ticket
 
-Ticket 2: Adobe Upgrade – Accounting
+
+**Ticket 2: Adobe Upgrade – Accounting**
 As End User: Create ticket: "Accounting needs Adobe upgrade"
 
 As Agent (John):
@@ -170,7 +171,7 @@ Set SLA: Sev-B (4hrs, 24/7)
 
 Complete the ticket
 
-Ticket 3: CFO’s Laptop Issue
+**Ticket 3: CFO’s Laptop Issue**
 As End User: Create ticket: "CFO’s laptop won’t turn on"
 
 As Agent (John):
