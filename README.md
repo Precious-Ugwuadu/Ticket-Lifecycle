@@ -38,10 +38,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
+To begin, I am going to create a new ticket as an end user, Karen.
 When users experience a technical problem or need help with a service, they can report the issue by submitting a support ticket. This ticket includes important information such as the type of problem, how it is affecting them, and any steps they may have already taken to resolve it. For instance, if a customer discovers that the online banking platform is completely unavailable, they can create a new support ticket and select the category "Business Critical Outage." This helps the support team understand the urgency and seriousness of the issue, as outages like these can affect many users and disrupt important transactions. Once submitted, the help desk team reviews the ticket, prioritizes it based on its severity, and begins working to resolve the issue as quickly as possible.
 
 ![image](https://github.com/user-attachments/assets/4ec87747-a8db-4f5a-8047-51495f1c58c3)
 
+I went to the osTicket and logged in as Agent John to see the ticket created by Karen. Agents use the Agent Panel to view, update, and prioritize active support tickets. It helps them track progress and respond efficiently. Queue managers oversee ticket flow, ensuring high-priority issues are assigned to the right agents for quick and effective resolution.
+
+![image](https://github.com/user-attachments/assets/e335a72a-bc43-466b-9b2d-9ca6fdb1790d)
+
+As a Help Desk Agent, I will review each ticket’s priority, assigned department, SLA (Service Level Agreement), and assign an agent. If needed, I’ll route the ticket to the correct department. If the issue appears critical, I’ll contact the requester for more details and set the appropriate SLA to ensure timely resolution.   
+
+![image](https://github.com/user-attachments/assets/e9567846-8094-47ab-8c6e-301b3f1d68fc)
+
+This ticket is classified as an "Emergency" due to its serious impact on a vital business function. As the agent addresses the problem, the SLA is adjusted to "Sev-A" to reflect the issue’s critical nature and the need for a swift response.
+
+![image](https://github.com/user-attachments/assets/f0b94ee4-0e23-4eb8-8a27-4f98d9ac38d3)
+
+I updated the help topic to Report a problem / Business Critical Outage.
 </p>
 <br />
 
