@@ -42,8 +42,6 @@ When users experience a technical problem or need help with a service, they can 
 
 ![image](https://github.com/user-attachments/assets/4ec87747-a8db-4f5a-8047-51495f1c58c3)
 
-
-
 </p>
 <br />
 
